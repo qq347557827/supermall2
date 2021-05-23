@@ -31,7 +31,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
   .tabcontrol {
     display: flex;
     width: 100%;

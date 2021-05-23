@@ -31,7 +31,7 @@ export default {
     text-align: center;
   }
   .left, .right {
-    width: 60px;
+    width: 50px;
   }
   .center {
     flex: 1;
